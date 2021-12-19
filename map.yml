@@ -1,0 +1,10 @@
+map_name: Hearts_of_Iron2
+games:
+- {game_name: 'Hearts of Iron 2: Clash Of The Titans-Winter1942', file_name: Hearts
+    of Iron2_Clash of the Titans 1942.xml}
+- {game_name: Hearts of Iron2_Lion's Den_1944, file_name: Hearts of Iron2_Lion's Den_1944.xml}
+- {game_name: Hearts of Iron2_Operation Barbarossa, file_name: Hearts of Iron2_Operation
+    Barbarossa.xml}
+- {game_name: 'Hearts of Iron 2: Turning tide-1943', file_name: Hearts of Iron2_Turning
+    point 1943.xml}
+version: 0

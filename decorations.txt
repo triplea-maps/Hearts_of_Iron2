@@ -1,0 +1,13 @@
+Russia.png  (3010,479)
+China.png  (4265,1499)
+america.png  (334,860)
+
+london.png  (1716,618)
+berlin.png  (2095,718)
+Minor_Axis.png  (2217,980)
+
+Italy.png  (2018,1330)
+
+Japan.png  (5198,1309)
+Australian.png  (5771,3400)
+Canadian.png  (401,637)
